@@ -14,6 +14,10 @@ int mal(int x, int y) {
 	return x * y;
 }
 
+int div(int x, int y) {
+	return x / y;
+}
+
 int main() {
     return 0;
 }
